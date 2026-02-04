@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/El Inge/desktop/curso-devops/src/contactosapi/ContactosAPI.csproj",
+      "projectUniqueName": "/mnt/c/Users/El Inge/desktop/curso-devops/src/ContactosAPI/ContactosAPI.csproj",
       "projectName": "ContactosAPI",
-      "projectPath": "/mnt/c/Users/El Inge/desktop/curso-devops/src/contactosapi/ContactosAPI.csproj",
+      "projectPath": "/mnt/c/Users/El Inge/desktop/curso-devops/src/ContactosAPI/ContactosAPI.csproj",
       "packagesPath": "/home/alexis/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/El Inge/desktop/curso-devops/src/contactosapi/obj/",
+      "outputPath": "/mnt/c/Users/El Inge/desktop/curso-devops/src/ContactosAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alexis/.nuget/NuGet/NuGet.Config"

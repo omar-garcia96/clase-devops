@@ -31,3 +31,4 @@
 /mnt/c/Users/El Inge/desktop/curso-devops/src/contactosapi/obj/Debug/net8.0/ContactosAPI.pdb
 /mnt/c/Users/El Inge/desktop/curso-devops/src/contactosapi/obj/Debug/net8.0/ContactosAPI.genruntimeconfig.cache
 /mnt/c/Users/El Inge/desktop/curso-devops/src/contactosapi/obj/Debug/net8.0/ref/ContactosAPI.dll
+/mnt/c/Users/El Inge/desktop/curso-devops/src/ContactosAPI/obj/Debug/net8.0/ContactosAPI.sourcelink.json
