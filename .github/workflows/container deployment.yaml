@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_BASE_NAME: omar/apicontactos
+  IMAGE_BASE_NAME: omar/contactosapi
 
 jobs:
   API_Image:
